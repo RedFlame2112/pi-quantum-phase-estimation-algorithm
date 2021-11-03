@@ -1,14 +1,14 @@
 # pi-quantum-phase-estimation-algorithm
 
-##Table of Contents
+## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-##General Info
+## General Info
 This project is a Jupyter Notebook quantum algorithm using quantum phase estimation to estimate the value of pi, increasing in accuracy for each additional qubit
 
-##Technologies
-###Qiskit version table:
+## Technologies
+### Qiskit version table:
 | Qiskit Software         | Version Used  |
 | :-------------          | -------------:|
 | `qiskit-terra`          |       0.18.2 |
