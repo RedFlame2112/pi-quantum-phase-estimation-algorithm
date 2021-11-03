@@ -32,11 +32,9 @@ As you may already tell, this project requires the installation of Qiskit, which
 Setting up Jupyter Notebooks could be done using the terminal command
 ```
 $ conda install -c conda-forge jupyterlab
-
 ```
 or
 ```
 $ mamba install -c conda-forge jupyterlab
-
 ```
 if you have either conda or mamba installed.
